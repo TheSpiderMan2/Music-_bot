@@ -3,4 +3,4 @@ prefix=!
 game=!play
 stayinchannel=true
 songinstatus=false
-token=NTY2NTE0OTY2MzM3ODE0NTY4.XLGGwg.B7t1wnwdpcgp1mGDD-1ZjPGxVS4
+token=NjA0MjkzMTI2NDI0NzU2MjQ2.XTr4dA.sm4HnKnYzYofXaaCTNrY5nu0o6k
